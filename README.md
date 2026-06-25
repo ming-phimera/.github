@@ -1,3 +1,1 @@
-# ming-phimera
-
-*substance in the substrate.*
+<p align=\"center\"><i>substance in the substrate</i></p>
